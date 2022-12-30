@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 # Leetcode Stats 🏆
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ocmodi21?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/anish_mathakiya?ext=heatmap)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iam-anish&theme=radical&background=000000)](https://git.io/streak-stats)
