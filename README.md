@@ -247,7 +247,7 @@ Here are some ideas to get you started:
     alt="Anish"
   />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-anish&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-anish&theme=dark&show_icons=true)]
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iam-anish&theme=radical&background=000000)](https://git.io/streak-stats)
 
