@@ -243,8 +243,8 @@ Here are some ideas to get you started:
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=21it146&show_icons=true&locale=en&layout=compact"
-    alt="21it146"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-anish=true&locale=en&layout=compact"
+    alt="Anish"
   />
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
