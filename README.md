@@ -247,22 +247,7 @@ Here are some ideas to get you started:
     alt="21it146"
   />
 </p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=21it146&show_icons=true&locale=en"
-    alt="21it146"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=21it146&"
-    alt="21it146"
-  />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iam-anish&theme=radical&background=000000)](https://git.io/streak-stats)
 
