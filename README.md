@@ -264,5 +264,7 @@ Here are some ideas to get you started:
   />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam-anish&theme=radical&background=000000)](https://git.io/streak-stats)
+
 
 
