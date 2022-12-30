@@ -1,4 +1,7 @@
-### Hola, I'm Anish Mathakiya! 👋
+<img align="center" alt="Coding" width="1700" height="250" src="https://www.learntek.org/blog/wp-content/uploads/2018/05/java2.jpg">
+<h1 align="center">Hi 👋, I'm Anish Mathakiya</h1>
+<h3 align="center">A passionate Java developer from Gujarat, India</h3>
+<img align="rigth" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 Here are some ideas to get you started:
 
@@ -36,7 +39,7 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anish_mathakiya?ext=heatmap)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-anish&theme=radical&background=000000)](https://git.io/streak-stats)
+
 
 
 
