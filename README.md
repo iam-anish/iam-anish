@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Anish Mathakiya</h1>
-<h3 align="center">A passionate Java developer from Gujarat, India</h3>
 <img align="rigth" alt="Coding" width="200" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 Here are some ideas to get you started:
